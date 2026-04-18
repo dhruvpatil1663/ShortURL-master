@@ -1,7 +1,11 @@
 # URL Shortener System
 
 Developed by: Dhruvkumar Patil
+
+
 [Short url](client/src/assets/images/shorurl.jpg)
+
+
 This project is a URL shortening service that converts long URLs into short, shareable links.
 
 ## Features
